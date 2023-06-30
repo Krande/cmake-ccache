@@ -1,0 +1,5 @@
+name: cmake-ccache
+channels:
+  - conda-forge
+dependencies:
+  - boa
